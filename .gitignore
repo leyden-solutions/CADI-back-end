@@ -1,0 +1,11 @@
+.env
+*.pdf
+*.log
+# *.json
+__pycache__
+
+# venv-related:
+.venv/
+bin/
+lib/
+pyvenv.cfg

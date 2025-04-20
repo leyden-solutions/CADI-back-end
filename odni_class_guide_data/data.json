@@ -1,0 +1,1382 @@
+{
+  "3.1.1": {
+    "name": "(U) FINANCE (FIN)",
+    "items": [
+      {
+        "content": "(U) The fact that the ODNI manages the budget for the National Intelligence Program (NIP)",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The aggregate or \"top line\" amount of funds appropriated by Congress to the National Intelligence Program for fiscal years 2007 and beyond.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Only applicable from 2007 and fater. Previous top line budget amounts remain classified. (See below. Contact ODNI/CFO for additional guidance as needed.)"
+      },
+      {
+        "content": "(U) Any subsidiary information concerning the intelligence budget, whether the information concerns particular intelligence agencies or particular intelligence programs is classified and will not be disclosed. Information below the top-line figure may cause harm to the national security. The only exception to the foregoing are for unclassified appropriations, primarily for the Community Management Account",
+        "level": null,
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The aggregate or \"top line\" amount of funds requested and approved by Congress for the DoD Military Intelligence Program (MIP) for fiscal years 2007 through 2014.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) No other MIP budget figures or program details will be released, as they remain classified for national security reasons."
+      },
+      {
+        "content": "(U) Budget or financial information directly tied to the NIP, below the aggregate or top line amount for all fiscal years.",
+        "level": "S",
+        "duration": 25,
+        "reason": "14(e)",
+        "remarks": "(U) Minimum SECRET//NOFORN. May be compartmented based on intelligence functional manager/OCA decision. Refer to appropriate intelligence program classification guide."
+      },
+      {
+        "content": "(U) ODNI financial information inclusive of budget. personnel, expenditure, and appropriations data, to include related guidance, procedures, agreements, or disbursement techniques associated with ODNI administrative operations or projects/activities below the Directorate of Mission Manager level.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Unclassified, so long as the release of such information will not lead to knowledge of or insight into an intelligence community mission, sensitive program, target, vulnerability, capability. of intelligence source and method or budget information for any IC component-including the ODNI"
+      },
+      {
+        "content": "(U) Specific information regarding ODNI or IC agency Directorate or Mission Manager-level fiscal matters inclusive of budget, expenditure, funding, and appropriations data, to include related guidance, procedures, agreements, or disbursement techniques, the release of which would provide the level of effort committed or insight into capabilities or intelligence sources or methods.",
+        "level": "S",
+        "duration": 25,
+        "reason": "14(c)",
+        "remarks": "(U) Example: Overall budget of administrative functions for ODNI/HR, CICO or PAO etc., is FOUO"
+      },
+      {
+        "content": "(U) Detailed information regarding ODNI and IC fiscal matters inclusive of budget, manpower, expenditures  funding, and appropriations data, to include related guidance, procedures, agreements, vulnerabilities, or disbursement techniques related to the National Intelligence Program (NIP), or the financial condition and resources of the IC as a whole.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) A higher classification or additional markings may be required for compartmented information or programs. Consult with appropriate Program Compartment Guide or NCIX for compartmented info"
+      }
+    ]
+  },
+  "3.1.2": {
+    "name": "(U) HUMAN RESOURCES MANAGEMENT (HRM)",
+    "items": [
+      {
+        "content": "(U) The fact that ODNI has an active recruitment, assessment, selection, and evaluation process to hire ODNI staff.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that an overt employee (including their name) works for the ODNI as a staff person, detailee, or contractor.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) General information regarding ODNI staff recruitment, assessment, selection, and evaluation process.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Specific information concerning ODNI staff recruitment, assessment, selection, and evaluation of applicants that reveals information which would allow this process to be circumvented.",
+        "level": "S",
+        "duration": 25,
+        "reason": "14(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) General information concerning ODNI workforce, mission areas and administrative functions that do not describe the workforce structure in any detail or include, names, titles, assignments or locations.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Does not include: -Specific number of staff, government and contractors in the operational areas (ie., IARPA. DDII, NIC, NCTC, NCPC, ONCIX, NIEMA, NIM staffs, and the IC CIO), implying priorities and scope, providing insight into sensitive aspects of operational or sensitive missions areas. Resource totals. (U) When in doubt, contact DNI-Classification for guidance."
+      },
+      {
+        "content": "(U) Total number of ODNI or IC staff employees authorized or assigned.",
+        "level": "S",
+        "duration": 25,
+        "reason": "(c)",
+        "remarks": "(U) Includes organizational charts where resource numbers can be deduced for the operational elements within the ODNI. (U) Classified (notional) example: -ONCIX is comprised of 19 staff and 798 contractors working CI and Security related issues. -NCTC is authorized 500 staff billets, and 400 contractors to execute CT functions on behalf of the USG. -DDII has 122 employees assigned. (U) When in doubt, contact DNI-Classification for guidance."
+      },
+      {
+        "content": "(U) Specific information concerning the existing or planned ODNI (or IC) workforce below the Mission Manager-level that describes the workforce structure including names, resource numbers, assignments or locations, which identifies an organization size and capability, or identifies the resources dedicated to an intelligence objective or geographical area.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) When in doubt, contact DNI-Classification for guidance."
+      },
+      {
+        "content": "(U) Resource numbers (staff and/or contractor) covering non-operational ODNI elements, such as P&S, PE, AT&F, SRA, CHCO, CFO, CIO/IMD, MSD, ISE, OGC, CLPO, PAO, IC IG, EEOD and OLA, etc.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) FOUO (notional) example: -MSD/HR has 12 staff and 23 contractors. -IC IG has 17 employees assigned. -SRA has 10 staff and 3 detailees assigned. ( ) When in doubt, contact DNI-Classification for guidance."
+      },
+      {
+        "content": "(U) The aggregate listing of names and official titles of ODNI employees.",
+        "level": "S",
+        "duration": 25,
+        "reason": "14(c)",
+        "remarks": "Only applicable from 2007 and later."
+      },
+      {
+        "content": "(U) The aggregate listing of names and official titles of IC employees.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "14(c)",
+        "remarks": null
+      }
+    ]
+  },
+  "3.1.3": {
+    "name": "(U) LOCATION (LOC)",
+    "items": [
+      {
+        "content": "(U) The fact that ODNI Headquarters is located within the Liberty Crossing Compound in the Tyson's Corner Area of Virginia",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(11) Including the physical address of OONI."
+      },
+      {
+        "content": "(U) The fact that ODNI operates in facilities other than Liberty Crossing",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The name and abbreviation of a specific overt. ODNI location in the Washington Metropolitan Area.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) May be FOUO do to aggregation."
+      },
+      {
+        "content": "(U) The association of the ODNI with a covert location.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) Refer to specific (covert) agency classification guidance for additional details."
+      },
+      {
+        "content": "(U) The names and abbreviations of ODNI locations in the Washington Metropolitan Area, both overt and covert.",
+        "level": "S",
+        "duration": 50,
+        "reason": "14(c)",
+        "remarks": null
+      }
+    ]
+  },
+  "3.1.4": {
+    "name": "(U) AGGREGATION OR MOSAIC (MOS)",
+    "items": [
+      {
+        "content": "(U) Individually unclassified or controlled unclassified data items that in the compilation or aggregation would provide insight into ODNI's or $IC^{\\circ}s$ organization, functions, staffing, activities, capabilities, vulnerabilities, or intelligence sources or methods.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(11) May be REL TO USA, FVEY depending on the issue. Contact ODNI Partner Engagement $(ODNI/PE$ for guidance. (U) Example 1. Work products must be examined from an outsider's perspective to ensure adversaries cannot derive classified information: from various unclassified sources. Unclassified \"\"puzzle pieces\"\" can sometimes be assembled to form a classified \"\"picture\"\" or unintentionally paint a red X on a weak spot in your ability to perform or maintain your mission at acceptable levels. (U) Example 2: Unclassified budget information could be paired with other unclassified acquisition or requirements information to show an agency's vulnerability or shortfall in protection mechanisms for IT or physical security systems. (U) Example 3: We would not want our adversaries to know that we did not properly budget to provide $24/7$ police coverage of the entry points to the facility or to purchase necessary equipment to secure all building entry points. These vulnerabilities could be exploited to gain access to the building."
+      }
+    ]
+  },
+  "3.1.5": {
+    "name": "(U) ORGANIZATION AND ASSOCIATIONS (ORG)",
+    "items": [
+      {
+        "content": "(U) Fact/existence of the Office of the Director of National Intelligence (ODNI).",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Fact that the Director of National Intelligence (DNI) serves as the head of the Intelligence Community (IC).",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The ODNI senior position titles, acronyms and abbreviations.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Fact that DNI serves as principal advisor to the President, the National Security Council, and Homeland Security Council for intelligence matters related to the national security.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Fact that DNI directs the implementation of the US government's National Intelligence Program (NIP) and special activities as directed by the President.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) ODNI organization charts that provide the existing or planned structure, positions and names assigned at the DNI, PDDNI, CMO, and/or DDNI/II level and one level below.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Includes Chiefs of Staff, Executive-level Offices, Directorates, Centers, Administration, and Mission Managers."
+      },
+      {
+        "content": "(U) Organization charts that provide specific details on the existing or planned structure of ODNI administrative, support or non-operational areas which include names, resource numbers, assignments or locations",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) Includes: P&S, PE, AT&F, SRA, CHCO, CFO, CIO AMD, ISE, OGC, CLPO, PAO, IC IG, EEOD and OLA, etc. (U) When in doubt, contact DNI-Classification for guidance."
+      },
+      {
+        "content": "(U) Organization charts that provide specific details on the existing or planned structure of ODNI operational components at the third organizational level and below to include names, resource numbers, assignments or locations.",
+        "level": "U",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) Includes: IARPA, DDII, NIC, NCTC, NCPC, ONCIX, NIEMA, NIM staffs, and the IC CIO, etc. (U) When in doubt, contact DNI-Classification for guidance. (U) Does not include which is U//FOUO."
+      },
+      {
+        "content": "(U) Fact that ODNI employs CIA, FBI, NSA, DHS, DOS or other USG agency personnel (permanent staff or detailees) within the LX Compound, with no other details.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Does not include which is U//FOUO."
+      },
+      {
+        "content": "(U) The fact that there are NIMs dedicated to specific countries or areas of responsibility.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that NIMs produce Unifying Intelligence Strategies (UIS).",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(0) The faer that that NIMs produce UIS for Counterterrorism (CT) and Counterproliferation (CP).",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact of a named regionally or functionally focused UIS, other than Counterterrorism or Counterproliferation.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U/FOLIO) Example: is U//FOUO."
+      },
+      {
+        "content": "(U) The fact of a UIS that focuses on a named country.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(C/POGO) Example: is U/FOUO. (U) Classification may be higher depending on the specific topic or named actor."
+      },
+      {
+        "content": "(U) The fact of a UIS that focuses on a named topic, a component thereof, lone actor or non-state actor.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(C/POGO) Example: is U/FOUO. (U) Classification may be higher depending on the specific topic or named actor."
+      }
+    ]
+  },
+  "3.1.6": {
+    "name": "(U) PROCUREMENT (PRO)",
+    "items": [
+      {
+        "content": "(U) General information regarding an overt contract that does not provide insight into capabilities, vulnerabilities, or intelligence sources or methods.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) May require PROPIN or be Contract Sensitive. (U) Includes contracts"
+      },
+      {
+        "content": "(LU) Specific details regarding al contract, to include the fact of the affiliation between contractor and customer.",
+        "level": "C",
+        "duration": 50,
+        "reason": "1.4(c)",
+        "remarks": "(U) Refer to appropriate procurement agency for guidance. for (U//FOO) See contact currem guidance."
+      },
+      {
+        "content": "(U)  Specific details regarding al contract, to include the fact of the affiliation between contractor and customer.",
+        "level": "S",
+        "duration": 50,
+        "reason": "1.4(c)",
+        "remarks": "(U) Includes specific information pertaining to covert contracting procedures. (LI) Refer to appropriate procurement agency for guidance. contact for ( /FOHO) See current guidance."
+      }
+    ]
+  },
+  "3.2": {
+    "name": "(U) ANALYSIS (ANA)",
+    "items": [
+      {
+        "content": "(U) General information on analytic methodologies for sensitive data sets",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) Does not include specifically authorized documents produced by NCTC or the NIC as part of USG specific analyses of assessments which are unclassified for FOUO."
+      },
+      {
+        "content": "(U) Intelligence analysis that provides general information regarding sensitive or classified collection systems or data sets, or intelligence sources and methods.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) May contain compartmented information Refer to appropriate Program Security Officer/ Program Security Guide for additional information."
+      },
+      {
+        "content": "(U) Intelligence analysis that provides specific information regarding sensitive or classified collection systems or data sets, or intelligence sources and methods.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1,4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Intelligence analysis that provides specific information regarding sensitive or classified collection systems or data sets, or intelligence sources and methods which if revealed, would nullify or measurably reduce their effectiveness,",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      }
+    ]
+  },
+  "3.3": {
+    "name": "(U) COLLECTION (COL)",
+    "items": [
+      {
+        "content": "(U) Fact that ODNI relies on the results of IC collection sources and methods in protecting our National Security.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Information regarding the management activities of a collection program or system that is not associated with a specific collection mission and does not provide any precision or enumeration specific to that mission.",
+        "level": "U",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) Includes program organization, management. business processes, relationships, coordination, and oversight. Refer to applicable agency or program classification guide for more detailed guidance."
+      },
+      {
+        "content": "(U) Information concerning IC collection and content acquisition capabilities aimed at foreign media and other publicly available material where disclosure could be detrimental to US collection efforts.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) Includes program organization, management. business processes, relationships, coordination, and oversight. Refer to applicable agency or program classification guide for more detailed guidance."
+      },
+      {
+        "content": "( ) Information describing or derived from a US or foreign collection system, program, requirement, or research and development (R&D) effort where disclosure would reveal general US or foreign collection capability. or interest.",
+        "level": "S",
+        "duration": 25,
+        "reason": "14(c)",
+        "remarks": "(LJ) Includes program organization, management. business processes, relationships, coordination, and oversight. Refer to applicable agency or program classification guide for more detailed guidance."
+      },
+      {
+        "content": "(U) Information describing or derived from a US or foreign collection system, program, requirement, or R&D effort where disclosure would hinder US collection.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(0)",
+        "remarks": "(U) Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Information describing or derived from a US or foreign collection system, program, requirement, or R&D effort where disclosure would lessen US intelligence or collection advantage.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1400",
+        "remarks": "(U) Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Information describing or derived from a US or foreign collection system, program, requirement, or R&D effort where disclosure would reveal specific US or foreign collection capability, interest, or vulnerability.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) Contact ODNI Partner Engagement $(ODNI/PE)$ for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Information describing or derived from a US or foreign collection system, program, requirement, or R&D effort where disclosure would result in loss of US collection.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "l.4(c), (g)",
+        "remarks": "(U) Contact ODNJ Partner Engagement (ODNl/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Information describing or derived from a US or foreign collection system, program, requirement, or R&D effort where disclosure would reveal specific US or foreign collection capability, interest, or vulnerability, result in loss of US collection, and/or negate US intelli ence or collection advanta e.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c), (g)",
+        "remarks": "(U) Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      }
+    ]
+  },
+  "3.3.1": {
+    "name": "(U) FOREIGN INTELLIGENCE SURVEILLANCE ACT (FISA)",
+    "items": [
+      {
+        "content": "(U) The fact that NCTC uses Fl SA-acquired and FISA- derived information in its analysis and in its intelligence products.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) UNCLASSIFIED when used generically."
+      },
+      {
+        "content": "(U) Information obtained by, or derived from, an investigative technique requiring a FISA Court order or other FISA authorized collection (\"FISA Information\").",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) May be classified higher based on individual collection agency or assisting agency classification guidance."
+      },
+      {
+        "content": "(U) Use of FISA-acquired and FI SA-derived information when connected to a particular target or ana1Y1ic judgment in intelligence products or analysis.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) May be classified higher based on individual collection agency classification guidance."
+      },
+      {
+        "content": "The fact ofNCTC's access to and use of raw, unminimized FISA-acquired information.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "The process and procedures of making raw, unminimized FISA-acquired information available to NCTC personnel.",
+        "level": "S",
+        "duration": 25,
+        "reason": "l.4(c)",
+        "remarks": null
+      },
+      {
+        "content": ") NCTC's Standard Minimization Procedures.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "AG"
+      },
+      {
+        "content": ") The policies, process, and procedures for implementing NCTC's Standard Minimization Procedures.",
+        "level": "S",
+        "duration": 25,
+        "reason": "l.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "The fact that NCTC employees are required to sign a Leuer of Consent to View and Work with FISA Objectionable Material in order to access unminimized FISA ac uired information.",
+        "level": "S",
+        "duration": 25,
+        "reason": "l.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U//ret!Q) The fact of the existence of the FISA Source Registry.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "FOUO"
+      },
+      {
+        "content": "The fact that all products that contain FISA- derived information must include the NCTC FISA caveat.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "FOUO"
+      },
+      {
+        "content": "(U) The NCTC FISA caveat.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Budget or finance information to support the NCTC FISA program.",
+        "level": "S",
+        "duration": 25,
+        "reason": "l.4{c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that NCTC has a FISA Coordinator (FC) who serves as the focal point for managing the implementation ofNCTCs FISA authorities and responsibilities.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The general description of the FISA Coordinators responsibilities.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that NCTC has individuals who function as FISA Analysts or FISA Advanced Analysts.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": ") The fact that NCTC has individuals who function as FISA Minimization Approvers.",
+        "level": "S",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that NCTC has individuals who function as FISA Dissemination Nominators.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that NCTC has individuals who function as FISA Dissemination Approvers.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that NCTC has individuals who function as FISA Notification Points of Contact (POCs)",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that NCTC has individuals who function as FISA Auditors.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that NCTC has individuals who function as FISA Systems Administrators.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U//FOUO) Descriptions of the various FISA roles and corresponding data accesses.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) May be classified higher when associated with a description of the FISA System Administrator role and corresponding data accesses. tsffNF) Applies to the FISA Analyst, FISA Advanced Analyst, Minimization Approver, Dissemination Nominator, Dissemination Approver, Notification POC, FISA Auditor, FISA System Administrator roles."
+      },
+      {
+        "content": "(U// )",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "FOUO"
+      },
+      {
+        "content": "The fact that NCTC audits and reports on all u searches of FISA data",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "FOUO"
+      },
+      {
+        "content": "The fact that NCTC audits and reports on all s",
+        "level": "S",
+        "duration": 25,
+        "reason": "l.4(c)",
+        "remarks": "(U) May be classified higher if this information is associated with the specifics of particular types of audits and their results."
+      },
+      {
+        "content": "The fact that NCTC audits and reports on all s",
+        "level": "S",
+        "duration": 25,
+        "reason": "l.4{c)",
+        "remarks": "(U) May be classified higher if this information is associated with the results of the audits."
+      },
+      {
+        "content": "The fact that NCTC audits and reports on all s",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "The fact that NCTC audits and reports on all- s",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(S//NF)",
+        "level": "S",
+        "duration": 25,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The content ofNCTC FISA training.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "The identification of the",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      }
+    ]
+  },
+  "3.4.1": {
+    "name": "(U) REQUIREMENTS MANAGEMENT (REQ)",
+    "items": [
+      {
+        "content": "(U).The fact that ODNI manages national intelligence requirements.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U/lrvuO) The fact that ODNI provides national intelligence assets to meet\u00c2\u00b7\u00c2\u00b7\u00c2\u00b7\u00c2\u00b7\u00c2\u00b7\u00c2\u00b7\u00c2\u00b7\u00c2\u00b7\u00c2\u00b7",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "FOUO"
+      },
+      {
+        "content": "(U) General ODNI customer requirements.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "FOUO"
+      },
+      {
+        "content": "(U) General information concerning customer requirements which reveals US intelligence activities, capabilities, targets, sources, or methods.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) Includes Transnational Crime Strategy requirements. (U) May be classified based on content."
+      },
+      {
+        "content": "(U) Specific information concerning customer requirements which reveals US intelligence activities, capabilities, targets, sources, or methods.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) May be NOFORN depending on content. (U) Includes support for military, policy & diplomatic, maritime and aviation, Homeland Security and law enforcement intelligence re uirements."
+      },
+      {
+        "content": "(U) \u00c2\u00b7specific information concerning an intelligence collection program and capability to address a specific consumer requirement(s).",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) May be NOFORN depending on content. (U) Includes: - support for military - policy & diplomatic - maritime and aviation - Homeland security - Law enforcement intelligence requirements (U) May be NOFORN depending on participants and specific information. Contact ODNI Partner Engagement (ODNl/PE) for foreign disclosure uidance."
+      }
+    ]
+  },
+  "3.4.2": {
+    "name": "(U) POLICY AND PLANS (POL)",
+    "items": [
+      {
+        "content": "(U) The fact that the Intelligence Community is directed U by t)1e ODNI for IC-wide policies and plans.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Information regarding strategic intelligence policy and planning activities that is not associated with a specific intelligence objective or mission and does not provide any precision or enumeration regarding an intelligence objective or mission.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) General infonnation which does not provide insight into: - Intentions - Plans - Objectives Missions Targets Programs Capabilities Stren hs or weaknesses"
+      },
+      {
+        "content": "(U) General infonnation regarding strategic policies and plans which does not reveal: - Policy Makers strategic objectives and intentions.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) General information which does provide insight into: Intentions Plans Objectives Missions - Targets Programs Capabilities Stren hs or weaknesses"
+      },
+      {
+        "content": "(U) General infonnation regarding strategic policies and plans which does reveal: - Policy Makers strategic objectives and intentions.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Specific infonnation on strategic intelligence policy and planning.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "l.4(c)",
+        "remarks": "(U) Which reveals: - Specific policy objectives - Details and Intentions - Targets - System capabilities - Strengths or weaknesses - National Intelligence Priority Framework (NIPF). See NIPF Classification Guide - Insight or method for developing superior or offsetting intelligence capabilities (U) May be REL TO USA, FVEY depending on participants and specific information. Contact ODNI Partner Engagement (ODNl/PE) for foreign disclosure guidance. (U) Classify TOP SECRET//NOFORN if vulnerabilities are revealed."
+      }
+    ]
+  },
+  "3.4.3": {
+    "name": "(U) MILITARY PLANNING (MIL)",
+    "items": [
+      {
+        "content": "(U) General information or assessments regarding the military plans, intentions, capabilities, or activities of the US, its allies, coalition partners or foreign adversaries.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c), (d)",
+        "remarks": "(U) May be REL TO USA, FVEY depending on content. Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Specific information or assessments regarding the military plans, intentions, capabilities, or activities of the US, its allies, coalition partners or foreign adversaries.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c), (d)",
+        "remarks": "(U) May be REL TO USA, FVEY depending on content. Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Information providing indication or advance warning that the U.S. or its allies are preparing an attack.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(a), (d)",
+        "remarks": "(U) May be REL TO USA, FVEY depending on content. Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Information indicating the U.S. has advanced warning or indications that a foreign state or entity has a covert capability with the potential to alter the balance of power.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(a), (d)",
+        "remarks": "(U) May be REL TO USA, FVEY depending on content. Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      }
+    ]
+  },
+  "3.4.4": {
+    "name": "(U) EMERGENCY PLANNING (EME)",
+    "items": [
+      {
+        "content": "(U) General information regarding ODNI emergency and disaster plans.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Providing no insight into concepts or execution of such plans is provided."
+      },
+      {
+        "content": "(U) The \"fact that\" ODNI has emergency and disaster plans and conducts emergency and disaster drills.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The results of ODNI emergency and disaster drills.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Results shall be at a minimum FOUO, but may be classified at a higher level depending on content and any weaknesses or vulnerabilities revealed."
+      },
+      {
+        "content": "(U) Specific information regarding ODNI emergency and disaster plans.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(g)",
+        "remarks": "(U) Includes information regarding security process and procedures designed to safeguard personnel, facilities, and ODNI business continuity."
+      },
+      {
+        "content": "(U) Details ofODNI emergency and disaster plans.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(g)",
+        "remarks": "(U) Includes: - Emergency relocation plans and sites. - Executive-level comingcncy plans. - Vulnerabilities and weaknesses associated with security processes and procedures designed to safeguard personnel, facilities, and ODNI business continuity. (U) May require SCI or SAP controls. Refer to governing program classification guides. Address ODNI COG issues to NIEMA and ODNI COOP issues to MSD Securit ."
+      }
+    ]
+  },
+  "3.5.1": {
+    "name": "(U) FOREIGN AFFAIRS (FOR)",
+    "items": [
+      {
+        "content": "(U) The \"fact that\" the US maintains intelligence relationships with foreign allies.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Includes the general fact of intelligence relationships with Australia, Canada, Great Britain and New Zealand. Details will vary in classification by topic and CONOP/Agreement in place."
+      },
+      {
+        "content": "(U) \"Fact of' broad, general intelligence cooperation with a country or group of countries with which the US maintains formal military alliances or agreements (e.g., NATO).",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The \"fact that\" the ODNI and IC has intelligence relationships with the following named foreign partners: - Great Britain, Government Communications Headquarters (GCHQ) - Canada, Communications Security Establishment, Canada (CSEC) - Australia Defense Signals Directorate (DSD) - New Zealand, Government Communications Security Bureau (GCSB)",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The \"fact that\" the US has an imagery and SIGINT sharing relationship with the Commonwealth Partners (Australia, Canada, Great Britain, New Zealand)",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U/FOUO) Fact that the National Counter Terrorism Center (NCTC) is a counterterrorism collaboration system, without information regarding its membership, without disclosing its membership.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Intelligence analysis, sources, methods, or other information in the public domain but not officially acknowledged, concerning a foreign entity which could, if released, damage the conduct of US foreign relations.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c), (d)",
+        "remarks": "(U) May be classified higher depending on details. (U) DCI memo dated 4 March 2002 pertains. (U) May be NOFORN depending on participants and specific information. Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Fact of intelligence cooperation between US and named foreign governments with which the US is not allied, with no additional details.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c), (d)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Intelligence analysis, sources, methods or other information neither in the public domain nor officially acknowledged, concerning one or more foreign entities, which could, if released, seriously damage the conduct of US foreign relations.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c), (d)",
+        "remarks": null
+      },
+      {
+        "content": "(U/FOUO) Fact that US intelligence support",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c), (d)",
+        "remarks": null
+      }
+    ]
+  },
+  "3.5.2": {
+    "name": "(U) LIAISON (LIA)",
+    "items": [
+      {
+        "content": "(U) Information provided by a foreign government or by an international entity with the understanding that it is to be protected at the Confidential level.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(d)",
+        "remarks": "(U) Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Information provided by a foreign government or by an international entity with the understanding that it is to be protected at the Secret level.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(d)",
+        "remarks": "(U) Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Information provided by a foreign government or an international entity with the understanding that the information is to be protected at a level higher than Secret.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(d)",
+        "remarks": "(U) Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Intelligence information produced by the US resulting from a liaison relationship with a foreign government or with an international entity, or information about such a liaison relationship.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(d)",
+        "remarks": "(U) Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      },
+      {
+        "content": "(U) Intelligence produced by the US resulting from a liaison relationship with a foreign government or an international entity, which has classified that information at a level higher than Secret.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(d)",
+        "remarks": "(U) Contact ODNI Partner Engagement (ODNI/PE) for foreign disclosure guidance."
+      }
+    ]
+  },
+  "3.5.3": {
+    "name": "(U) SPECIAL EVENTS (SPE)",
+    "items": [
+      {
+        "content": "(U) Fact of US intelligence support being provided to (named or unnamed) international special event(s), including dates, locations.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4 (c), (d)",
+        "remarks": "(U) May be FOUO based on content and agreements in place. Classify higher depending on details. (U) May be REL TO USA, FVEY; Contact ODNI Panncr Engagement (ODNl/PE) for foreign disclosure uidance."
+      },
+      {
+        "content": "(U) Specific information on or details about US intelligence support being provided to a (named or unnamed) international special event.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4 (c)",
+        "remarks": "(U) May be classified higher depending on content. (U) May be REL TO USA, FVEY; contact ODNI Partner Engagement (ODNl/PE) for foreign disclosure uidance."
+      },
+      {
+        "content": "(U) Fact of NCTC support to the FBI for domestic special events.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Specific information on or details about NCTC support being provided to the FBI involving domestic special events.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4 (c)",
+        "remarks": null
+      }
+    ]
+  },
+  "3.6.1": {
+    "name": "(U) INTELLIGENCE REQUIREMENTS (INR)",
+    "items": [
+      {
+        "content": "(U) General information concerning intelligence requirements.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) General information concerning intelligence requirements which would reveal US intelligence activities, capabilities, targets, sources, or methods.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Specific information concerning intelligence requirements which would reveal US intelligence activities, capabilities, targets, sources, or methods.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Specific information concerning intelligence requirements which would reveal extremely sensitive US intelligence activities, capabilities, targets, sources or methods.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      }
+    ]
+  },
+  "3.6.2": {
+    "name": "(U) COUNTERINTELLIGENCE (CI)",
+    "items": [
+      {
+        "content": "(U) General information concerning CI activities, locations, plans, processes, requirements, or operations.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Specific information concerning CI activities, locations, plans, processes, requirements, or operations.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Detailed information concerning vulnerabilities or weaknesses associated with CI activities, locations, plans, processes, requirements, or operations which, if revealed, would nullify or measurably reduce their effectiveness.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      }
+    ]
+  },
+  "3.7.1": {
+    "name": "(U) COMMUNICATIONS (COM)",
+    "items": [
+      {
+        "content": "(U) General information concerning communications systems, procedures or methods not associated with a specific activity.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Includes: - Policy - Procedures - Roles and Responsibilities - Reporting activities"
+      },
+      {
+        "content": "(U) Specific information on the IC's worldwide electronic communications network or support to a named operational activity.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) May contain compartmented information. Refer to appropriate Program Security Officer / Program Security Guide for additional information."
+      },
+      {
+        "content": "(U) Specific information concerning cryptographic equipment, keying materials or other COM SEC-related issues.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) May be higher depending on specific program(s) supported."
+      },
+      {
+        "content": "(U) Specific information on techniques and procedures used to protect cryptographic equipment, keying material or related processes.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Detailed information on vulnerabilities identified concerning techniques used to protect cryptographic equipment, keying material, or processes concerning a compartmented project or program.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) May contain compartmented information. Refer to appropriate Program Security Officer / Program Security Guide for additional information."
+      }
+    ]
+  },
+  "3.7.2": {
+    "name": "(U) EQUIPMENT (EQU)",
+    "items": [
+      {
+        "content": "(U) \"Fact of' unique or specialized equipment used to support technical operations where disclosure would impair or negate its use.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c), (g)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Information describing a specific piece of technical operations equipment, its components, associated research, testing, and design data, attribution, and/or countermeasures.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c), (g)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Detailed information on the technical operations equipment associated with National Surveillance Technical Systems, its documentation and modes of operation.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Detailed information associated with a large-scale intelligence system/program that would be revealed by a model or computer simulation, or equipment documentation.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      }
+    ]
+  },
+  "3.7.3": {
+    "name": "(U) INFORMATION SYSTEMS (INF)",
+    "items": [
+      {
+        "content": "(U) Commercially available hardware and software names, technical designators, and capabilities when not associated with classified program data or unless otherwise indicated in a program classification guide.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U)Testing facilities which may be physically connected to the program's infrastructure networks.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "FOUO"
+      },
+      {
+        "content": "(U) URL designators when associated with classified programs or unless otherwise indicated in a program classification guide.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that ODNI maintains an information technology infrastructure including systems hardware, software, policies and procedures.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) System names or server names when not associated with classified program data unless otherwise indicated in a program classification guide.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) General information concerning information systems and networks, hardware, software, policies, procedures, or methods, or information systems support relating to IC information sharing initiatives.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Information on Intelligence activities will require FOUO or higher depending on details."
+      },
+      {
+        "content": "(U) General information concerning ODNI information systems and networks, hardware, software, policies, or procedures the disclosure of which may identify security vulnerabilities.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U) Classify Top Secret when vulnerabilities are identified."
+      },
+      {
+        "content": "(U) Specific site location criteria to include technical identifiers (IP Address, DCC Node ID, etc.), physical identifiers (Address, Building, Base, Fiber Route, MAC address, etc.}, and administrative identifiers (Circuit ID, etc.).",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) IP address, diagrams, and network maps ofODNI classified systems.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Specific and detailed information ofODNI classified systems concerning system security mechanisms that protect the integrity, confidentiality, and availability of data on ODNI classified systems.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) \tAssessments of security systems containing Secret material that indicate vulnerabilities or could aid in penetration of the system.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Assessments of security systems containing Top Secret material that indicate vulnerabilities or could aid in penetration of the system.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Specific vulnerabilities to ODNI system security architecture, one-of-a-kind equipment or other classified technologies.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U) Vulnerabilities involving domain Naming Service (DNS) or other address resolution protocols that allow access to specific program information.",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      },
+      {
+        "content": "(U//FOUO) The fact that  is designed to facilitate the sharing of counterterrorism intelligence products, without any further information or its membership.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "FOUO"
+      },
+      {
+        "content": "(SI/REL TO USA, FVEY)",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "REL TO USA, FVEY"
+      }
+    ]
+  },
+  "3.7.4": {
+    "name": "(U) METHODS (MET)",
+    "items": [
+      {
+        "content": "(U) General information on a covert or clandestine intelligence method.",
+        "level": "C",
+        "duration": null,
+        "reason": "1.4(c)",
+        "remarks": "(U//FOUO) Examples:  See or contact- for current guidance."
+      },
+      {
+        "content": "(U) Specific information on a covert or clandestine intelligence method, its operational uses or intelligence value.",
+        "level": "S",
+        "duration": null,
+        "reason": "1.4(c)",
+        "remarks": "(U//FOUO) See or contact- for current guidance."
+      },
+      {
+        "content": "(U) Specific intelligence methods that could identify a technical clandestine operation that provides substantive intelligence critical to the national security.",
+        "level": "TS",
+        "duration": null,
+        "reason": "1.4(c)",
+        "remarks": "(U//FOUO) See or contact- for current guidance."
+      },
+      {
+        "content": "(U) Policy aspects of a covert or clandestine method.",
+        "level": "TS",
+        "duration": null,
+        "reason": "1.4(c)",
+        "remarks": "(U//FOUO) See or contact- for current guidance."
+      },
+      {
+        "content": "(U) Legal requirements, legal approvals, and policy criteria regarding an operation or clandestine activity which might give an adversary insight that could interfere with or impede the ability to authorize or conduct operations.",
+        "level": "S",
+        "duration": null,
+        "reason": "1.4(c)",
+        "remarks": "(U//FOUO) See or contact li:ill for current guidance."
+      }
+    ]
+  },
+  "3.7.5": {
+    "name": "(U) IC INFORMATION TECHNOLOGY ENTERPRISE (IC ITE)",
+    "items": [
+      {
+        "content": "(U) The fact that the IC is moving to an IC Information Technology Enterprise environment or cloud computing environment.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that OMB supports the ODNI-led effort to consolidate IT functions across the IC into a single unified architecture, including;",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) integration of cloud computing principles, providing applications through thin client terminals, integrating email services, and integrating all users across the 16 IC agencies in a common desktop confie:uration."
+      },
+      {
+        "content": "(U) The fact that the DNI directed an assessment in Aug 2011 to determine if a new IC Information Technology (IT) architecture could advance intelligence integration, information sharing and enhance safeguarding while drivine: down the overall costs of IT.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The results of the IT architecture assessment which showed that the DNI 's goals could be achieved through a common IC enterprise architecture and a new business model for IC IT.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The fact that the implementation plan is aimed at reaching the target architecture for most IC agencies in 5 years (FY 12 - FY 18) and that the IC CIO will lead the overall nroe:ram the intee:ration of the enterprise services.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The DNI's vision for IC !TE: To enable greater IC integration, information sharing and safeguarding through a new common IC IT architecture that substantially reduces costs.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Fact that DIA and NGA were designated as service providers for IC Desktop Environment services associated with the IC !TE.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) FOUO when listing specific details of the associated services being provided."
+      },
+      {
+        "content": "(U) Fact that CIA and NSA were designated service providers for the Applications Mall services associated with the IC !TE.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) FOUO when listing specific details of the services being provided."
+      },
+      {
+        "content": "(U) Fact that CIA, DIA, NGA, NRO and NSA were designated service providers for operating Applications Store(s).",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) FOUO when listing specific details of the services being provided."
+      },
+      {
+        "content": "(U) The fact that IC-ITE is designed to facilitate the sharing of intelligence information.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) The IC ITE Integrated Master Schedule (IMS)",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) FOUO May be classified if the schedule includes funding or resource information."
+      },
+      {
+        "content": "(U) Details of Information Service Provider (ISP) functions.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) FOUO Minimum ofFOUO, classify higher according to content disclosed."
+      },
+      {
+        "content": "(U) General information concerning IC ITE requirement(s) which does not reveal, with any precision or enumeration, US intelligence activities, capabilities, targets, sources or methods.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": null
+      },
+      {
+        "content": "(U) Commercially available hardware and software names, technical designators, and capabilities associated with IC ITE, unless otherwise indicated in a program classification guide.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Provided specific version/model numbers or other key details are not expressed, which could reveal vulnerabilities."
+      },
+      {
+        "content": "(U) URLs, server names and other hardware or software designators associated with IC ITE, unless otherwise indicated in a program classification guide.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "(U) Does not include IP addresses."
+      },
+      {
+        "content": "(U) General information concerning IC ITE architecture, procedures, methods, or information systems support relating to IC ITE initiatives.",
+        "level": "U",
+        "duration": null,
+        "reason": null,
+        "remarks": "FOUO"
+      }
+    ]
+  },
+  "3.8": {
+    "name": "(U) OPERATIONS (OPS)",
+    "items": [
+      {
+        "content": "(U) General information concerning interdiction activities, locations, plans, processes, requirements, or operations.",
+        "level": "C",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U)  REL TO USA, FVEY"
+      },
+      {
+        "content": "(U) Specific information concerning interdiction activities, locations, plans, processes, requirements, or operations.",
+        "level": "S",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": "(U)  REL TO USA, FVEY"
+      },
+      {
+        "content": "(U) Detailed information concerning vulnerabilities or weaknesses associated with interdiction activities, locations, plans, processes, requirements, or operations",
+        "level": "TS",
+        "duration": 25,
+        "reason": "1.4(c)",
+        "remarks": null
+      }
+    ]
+  }
+}
