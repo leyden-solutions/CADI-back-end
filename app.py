@@ -145,7 +145,7 @@ def decode_jwt(token: str) -> dict:
     """
     try:
         payload = jwt.decode(token, JWT_SECRET, algorithms=["HS256"], audience="authenticated")
-
+    
         # Create Supabase client
         supabase: Client = create_client(
             SUPABASE_URL,
@@ -353,13 +353,14 @@ def process_redactions(doc_id: str, page: int, user_id: str, supabase: Client):
         redactions_match = re.search(r'<redactions>\s*(.*?)\s*</redactions>', response.content[0].text, re.DOTALL)
         redactions_only = redactions_match.group(1)
         redactions = convert_to_json(redactions_only)
-        for r in redactions:
-            skip = set(r["skip"])
-            r["indices"] = [i for i in range(r["start"], r["end"]+1) if i not in skip]
-            r["start"] = r["indices"][0]
-            r["end"] = r["indices"][-1]
-        redactions = [{"doc_id": doc_id, "page": page, "status": "Pending", "user_id": user_id, "reasoning": r["reasoning"], "start": r["start"], "end": r["end"], "rule": r["rule"], "confidence": r["confidence"], "indices": r["indices"]} for r in redactions]
-        supabase.table("redactions").insert(redactions).execute()
+        if redactions:
+            for r in redactions:
+                skip = set(r["skip"])
+                r["indices"] = [i for i in range(r["start"], r["end"]+1) if i not in skip]
+                r["start"] = r["indices"][0]
+                r["end"] = r["indices"][-1]
+            redactions = [{"doc_id": doc_id, "page": page, "status": "Pending", "user_id": user_id, "reasoning": r["reasoning"], "start": r["start"], "end": r["end"], "rule": r["rule"], "confidence": r["confidence"], "indices": r["indices"]} for r in redactions]
+            supabase.table("redactions").insert(redactions).execute()
 
     except Exception as e:
         logger.error(f"Error processing redactions for doc {doc_id} page {page}: {str(e)}")
